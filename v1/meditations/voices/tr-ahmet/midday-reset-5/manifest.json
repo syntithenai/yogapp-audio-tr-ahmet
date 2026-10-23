@@ -1,0 +1,190 @@
+{
+  "id": "midday-reset-5",
+  "voiceId": "tr-ahmet",
+  "edgeVoice": "tr-TR-AhmetNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 159,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Hoş geldiniz.",
+      "file": "c000.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 1,
+      "text": "Rahat bir oturma pozisyonu alın, daha iyi hissediyorsanız uzanın.",
+      "file": "c001.ogg",
+      "durationSec": 9.096
+    },
+    {
+      "index": 2,
+      "text": "Ellerinizi rahat bırakın.",
+      "file": "c002.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 3,
+      "text": "Gözleri yumuşatın, ya da kapayın.",
+      "file": "c003.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 4,
+      "text": "Yavaşça bir nefes alın.",
+      "file": "c004.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 5,
+      "text": "Ve daha uzun bir nefes verin.",
+      "file": "c005.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 6,
+      "text": "Günün bu noktasında sabahı bitirin, gün devam etse bile.",
+      "file": "c006.ogg",
+      "durationSec": 8.16
+    },
+    {
+      "index": 7,
+      "text": "Omuzlarınızı indirin.",
+      "file": "c007.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 8,
+      "text": "Çeneyi gevşetin.",
+      "file": "c008.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 9,
+      "text": "[durdur:30]",
+      "file": "c009.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 10,
+      "text": "Burundan nefes alın.",
+      "file": "c010.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 11,
+      "text": "Ağızdan nefes verin, bir pencereyi buharlaştırmak gibi.",
+      "file": "c011.ogg",
+      "durationSec": 8.064
+    },
+    {
+      "index": 12,
+      "text": "Tekrar.",
+      "file": "c012.ogg",
+      "durationSec": 2.904
+    },
+    {
+      "index": 13,
+      "text": "[durdur:30]",
+      "file": "c013.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 14,
+      "text": "Ne taşıdığınızı bırakarak hayal edin.",
+      "file": "c014.ogg",
+      "durationSec": 5.952
+    },
+    {
+      "index": 15,
+      "text": "Yanınızdaki masada bekleyebilir.",
+      "file": "c015.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 16,
+      "text": "[durdur:37]",
+      "file": "c016.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 17,
+      "text": "Omurganızın dik olduğunu hissedin.",
+      "file": "c017.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 18,
+      "text": "Karnınızın yumuşak olduğunu hissedin.",
+      "file": "c018.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 19,
+      "text": "[durdur:30]",
+      "file": "c019.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 20,
+      "text": "Sessizce sorun: önümüzdeki saatte ne önemli?",
+      "file": "c020.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 21,
+      "text": "Bir net sonraki adım yeterli.",
+      "file": "c021.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 22,
+      "text": "[durdur:44]",
+      "file": "c022.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 23,
+      "text": "O sadeliği içeri çek.",
+      "file": "c023.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 24,
+      "text": "Çaba dışarıya exhale.",
+      "file": "c024.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 25,
+      "text": "[durdur:37]",
+      "file": "c025.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 26,
+      "text": "Bir tane daha kolay nefes alın.",
+      "file": "c026.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 27,
+      "text": "Parmakları sallayın.",
+      "file": "c027.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 28,
+      "text": "Hazır olduğunuzda, gözlerinizi açın.",
+      "file": "c028.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 29,
+      "text": "Biraz bunu yanınızda taşıyın.",
+      "file": "c029.ogg",
+      "durationSec": 5.448
+    }
+  ]
+}

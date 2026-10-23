@@ -1,0 +1,250 @@
+{
+  "id": "heart-space-10",
+  "voiceId": "tr-ahmet",
+  "edgeVoice": "tr-TR-AhmetNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 209,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Hoş geldiniz.",
+      "file": "c000.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 1,
+      "text": "Varış için zaman ayırın.",
+      "file": "c001.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 2,
+      "text": "Destekle oturun ya da yatarak bulun.",
+      "file": "c002.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 3,
+      "text": "Eğer güvenli geliyorsa gözleri kapat.",
+      "file": "c003.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 4,
+      "text": "Yere temas hissedin.",
+      "file": "c004.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 5,
+      "text": "Yavaşça nefes alın.",
+      "file": "c005.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 6,
+      "text": "Uzun nefes verin.",
+      "file": "c006.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 7,
+      "text": "[durdur:25]",
+      "file": "c007.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 8,
+      "text": "Tekrar.",
+      "file": "c008.ogg",
+      "durationSec": 2.904
+    },
+    {
+      "index": 9,
+      "text": "[durdur:25]",
+      "file": "c009.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 10,
+      "text": "Omuzları düşürün.",
+      "file": "c010.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 11,
+      "text": "Karnı gevşetin.",
+      "file": "c011.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 12,
+      "text": "[durdur:31]",
+      "file": "c012.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 13,
+      "text": "Dikkati göğüs merkezine getirin.",
+      "file": "c013.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 14,
+      "text": "Duyguyu zorlamayın. Sadece alanı belirleyin.",
+      "file": "c014.ogg",
+      "durationSec": 8.976
+    },
+    {
+      "index": 15,
+      "text": "[durdur:31]",
+      "file": "c015.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 16,
+      "text": "Nefes alışı, kalpten içeri giriyormuş gibi.",
+      "file": "c016.ogg",
+      "durationSec": 6.936
+    },
+    {
+      "index": 17,
+      "text": "Nefes veriş, kalbi içeriden yumuşatıyormuş gibi.",
+      "file": "c017.ogg",
+      "durationSec": 7.704
+    },
+    {
+      "index": 18,
+      "text": "[durdur:37]",
+      "file": "c018.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 19,
+      "text": "Duygu ortaya çıkarsa, hava gibi hareket etmesine izin verin.",
+      "file": "c019.ogg",
+      "durationSec": 8.592
+    },
+    {
+      "index": 20,
+      "text": "[durdur:37]",
+      "file": "c020.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 21,
+      "text": "Sessizce: kalbim huzurlu olsun.",
+      "file": "c021.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 22,
+      "text": "[durdur:31]",
+      "file": "c022.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 23,
+      "text": "Kendi zamanıma sabırlı olayım.",
+      "file": "c023.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 24,
+      "text": "[durdur:31]",
+      "file": "c024.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 25,
+      "text": "Kendine kolayca değer verilebilecek birini akılda getirin.",
+      "file": "c025.ogg",
+      "durationSec": 7.512
+    },
+    {
+      "index": 26,
+      "text": "Onlara huzur dileyin.",
+      "file": "c026.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 27,
+      "text": "Huzurlu olmanı dilerim.",
+      "file": "c027.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 28,
+      "text": "[durdur:37]",
+      "file": "c028.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 29,
+      "text": "Kendi kalp alanına geri dön.",
+      "file": "c029.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 30,
+      "text": "Sıcak. Geniş. İnsan.",
+      "file": "c030.ogg",
+      "durationSec": 8.52
+    },
+    {
+      "index": 31,
+      "text": "[durdur:75]",
+      "file": "c031.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 32,
+      "text": "Burada dinlen.",
+      "file": "c032.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 33,
+      "text": "[durdur:90]",
+      "file": "c033.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 34,
+      "text": "[durdur:37]",
+      "file": "c034.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 35,
+      "text": "Nefesini derinleştirmeye başla.",
+      "file": "c035.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 36,
+      "text": "Odayı tekrar hisset.",
+      "file": "c036.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 37,
+      "text": "Parmaklarını ve ayak parmaklarını kıvır.",
+      "file": "c037.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 38,
+      "text": "Hazır olduğunda gözlerini aç.",
+      "file": "c038.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 39,
+      "text": "Bir sonraki adıma yavaşça geç.",
+      "file": "c039.ogg",
+      "durationSec": 5.832
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "id": "evening-wind-down",
+  "voiceId": "tr-ahmet",
+  "edgeVoice": "tr-TR-AhmetNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 154,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bu uygulama günün sonu için tasarlanmıştır.",
+      "file": "c000.ogg",
+      "durationSec": 6.792
+    },
+    {
+      "index": 1,
+      "text": "İşte ışıkları kapatmak mümkünse yapın.",
+      "file": "c001.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 2,
+      "text": "Destekle yatın ya da yaslanın.",
+      "file": "c002.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 3,
+      "text": "Gün bitti, hatta zihin hâlâ görev listeleri hazırlarsa bile.",
+      "file": "c003.ogg",
+      "durationSec": 8.808
+    },
+    {
+      "index": 4,
+      "text": "Şimdi bunları bırakabilirsiniz.",
+      "file": "c004.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 5,
+      "text": "Dört sayım için yumuşakça nefes alın.",
+      "file": "c005.ogg",
+      "durationSec": 6.168
+    },
+    {
+      "index": 6,
+      "text": "Altı sayım için nefes verin.",
+      "file": "c006.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 7,
+      "text": "Tekrar edin: Dört al, altı ver.",
+      "file": "c007.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 8,
+      "text": "Uzun nefesler bedene uygun bir dinlenme sağlar.",
+      "file": "c008.ogg",
+      "durationSec": 7.344
+    },
+    {
+      "index": 9,
+      "text": "Yüzde kalan gerilimi tarayın.",
+      "file": "c009.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 10,
+      "text": "Alnınızı yumuşatın. Diş çenesini yumuşatın.",
+      "file": "c010.ogg",
+      "durationSec": 9.096
+    },
+    {
+      "index": 11,
+      "text": "Omuzlarınızı kulaklardan uzaklaştırın.",
+      "file": "c011.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 12,
+      "text": "Günün rüzgârın ardından toz gibi düşmesini hayal edin.",
+      "file": "c012.ogg",
+      "durationSec": 7.848
+    },
+    {
+      "index": 13,
+      "text": "Ne olduysa, oldu.",
+      "file": "c013.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 14,
+      "text": "Kalanlar sabah olana kadar bekleyebilir.",
+      "file": "c014.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 15,
+      "text": "Yatağın ya da zeminin size tuttuğunu hissedin.",
+      "file": "c015.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 16,
+      "text": "Nefes daha sessiz. Vücut daha ağır.",
+      "file": "c016.ogg",
+      "durationSec": 8.4
+    },
+    {
+      "index": 17,
+      "text": "Uyku gelirse, bırakın.",
+      "file": "c017.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 18,
+      "text": "Gelmezse, yine de bu yumuşaklıkta dinlenin.",
+      "file": "c018.ogg",
+      "durationSec": 7.176
+    },
+    {
+      "index": 19,
+      "text": "Üç tane daha yavaş nefes.",
+      "file": "c019.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 20,
+      "text": "İçeri. Dışarı.",
+      "file": "c020.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 21,
+      "text": "İçeri. Dışarı.",
+      "file": "c021.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 22,
+      "text": "İçeri. Dışarı.",
+      "file": "c022.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 23,
+      "text": "Gün için iyi geceler. Geceye huzur.",
+      "file": "c023.ogg",
+      "durationSec": 8.16
+    }
+  ]
+}

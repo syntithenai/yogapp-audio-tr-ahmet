@@ -1,0 +1,286 @@
+{
+  "id": "quit-smoking-clear-5",
+  "voiceId": "tr-ahmet",
+  "edgeVoice": "tr-TR-AhmetNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 276,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Hoş geldiniz.",
+      "file": "c000.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 1,
+      "text": "Bu, temiz nefes uygulamasıdır.",
+      "file": "c001.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 2,
+      "text": "Rahat bir oturma pozisyonu alın, ya da daha iyi hissediyorsanız uzanın.",
+      "file": "c002.ogg",
+      "durationSec": 9.48
+    },
+    {
+      "index": 3,
+      "text": "Ellerinizi rahat bırakın.",
+      "file": "c003.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 4,
+      "text": "Gözlerinizi yumuşatın ya da kapayın.",
+      "file": "c004.ogg",
+      "durationSec": 6.096
+    },
+    {
+      "index": 5,
+      "text": "Burnunuzdan yavaşça bir nefes alın.",
+      "file": "c005.ogg",
+      "durationSec": 6.168
+    },
+    {
+      "index": 6,
+      "text": "Ve daha uzun bir nefes verin.",
+      "file": "c006.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 7,
+      "text": "[durdur:10]",
+      "file": "c007.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 8,
+      "text": "Havanın nasıl olduğunu fark edin.",
+      "file": "c008.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 9,
+      "text": "Nefes alırken serin.",
+      "file": "c009.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 10,
+      "text": "Nefes verirken sıcak.",
+      "file": "c010.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 11,
+      "text": "Hiç duman yok. Hiç zehir yok. Sadece nefes.",
+      "file": "c011.ogg",
+      "durationSec": 11.232
+    },
+    {
+      "index": 12,
+      "text": "[durdur:12]",
+      "file": "c012.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 13,
+      "text": "Gereksiz çaba olmadan göğsün genişlediğini hissedin.",
+      "file": "c013.ogg",
+      "durationSec": 7.728
+    },
+    {
+      "index": 14,
+      "text": "Kaburgaların biraz daha genişlediğini hissedin.",
+      "file": "c014.ogg",
+      "durationSec": 6.72
+    },
+    {
+      "index": 15,
+      "text": "[durdur:12]",
+      "file": "c015.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 16,
+      "text": "Bir elinizi kalbe koyun ya da her iki elinizi dizlerinize koyun.",
+      "file": "c016.ogg",
+      "durationSec": 8.424
+    },
+    {
+      "index": 17,
+      "text": "İyileşen bir beden hissi edin.",
+      "file": "c017.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 18,
+      "text": "Akciğerler temizleniyor. Kan daha serbest. Koku duyusu gün geçtikçe geri dönüyor.",
+      "file": "c018.ogg",
+      "durationSec": 14.544
+    },
+    {
+      "index": 19,
+      "text": "[durdur:16]",
+      "file": "c019.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 20,
+      "text": "Sessizce bu ifadeleri deneyin ya da sadece dinleyin.",
+      "file": "c020.ogg",
+      "durationSec": 7.656
+    },
+    {
+      "index": 21,
+      "text": "Nefesim benim.",
+      "file": "c021.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 22,
+      "text": "[durdur:12]",
+      "file": "c022.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 23,
+      "text": "Temiz havayı seçiyorum.",
+      "file": "c023.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 24,
+      "text": "[durdur:12]",
+      "file": "c024.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 25,
+      "text": "O zehri bırakıyorum.",
+      "file": "c025.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 26,
+      "text": "[durdur:14]",
+      "file": "c026.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 27,
+      "text": "Bir sonraki sigarasız sıradan anınızı hayal edin.",
+      "file": "c027.ogg",
+      "durationSec": 7.416
+    },
+    {
+      "index": 28,
+      "text": "Kahve. Bir yürüyüş. Yemekten sonra bir mola.",
+      "file": "c028.ogg",
+      "durationSec": 11.064
+    },
+    {
+      "index": 29,
+      "text": "O anda kendinizi tamamlanmış, zaten özgür olarak görün.",
+      "file": "c029.ogg",
+      "durationSec": 8.352
+    },
+    {
+      "index": 30,
+      "text": "[durdur:22]",
+      "file": "c030.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 31,
+      "text": "Sigara içme hatırası ortaya çıkarsa, bir plan değil, bir resim olarak bırakın.",
+      "file": "c031.ogg",
+      "durationSec": 11.136
+    },
+    {
+      "index": 32,
+      "text": "Bu nefese geri dönün.",
+      "file": "c032.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 33,
+      "text": "Bu nefes verişine geri dönün.",
+      "file": "c033.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 34,
+      "text": "[durdur:14]",
+      "file": "c034.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 35,
+      "text": "Özgürlük nefesi alın.",
+      "file": "c035.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 36,
+      "text": "Eski alışkanlığın hikayesini dışarı exhale edin.",
+      "file": "c036.ogg",
+      "durationSec": 7.2
+    },
+    {
+      "index": 37,
+      "text": "[durdur:14]",
+      "file": "c037.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 38,
+      "text": "Önemli olan kararı verdin.",
+      "file": "c038.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 39,
+      "text": "Vücudun bu gerçeğe yetişiyor.",
+      "file": "c039.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 40,
+      "text": "[durdur:12]",
+      "file": "c040.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 41,
+      "text": "Bir kez daha temiz bir nefes alın.",
+      "file": "c041.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 42,
+      "text": "Ve uzun, rahat bir nefes verin.",
+      "file": "c042.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 43,
+      "text": "Parmakları sallayın.",
+      "file": "c043.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 44,
+      "text": "Hazır olduğunuzda, gözlerinizi açın.",
+      "file": "c044.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 45,
+      "text": "Bu temiz havayı yanınızda taşıyın.",
+      "file": "c045.ogg",
+      "durationSec": 5.688
+    }
+  ]
+}

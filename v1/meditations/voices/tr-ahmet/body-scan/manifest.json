@@ -1,0 +1,148 @@
+{
+  "id": "body-scan",
+  "voiceId": "tr-ahmet",
+  "edgeVoice": "tr-TR-AhmetNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 177,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Vücudumuzu nazikçe tarayacağız.",
+      "file": "c000.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 1,
+      "text": "Rahatça yatın veya oturun.",
+      "file": "c001.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 2,
+      "text": "Güvenli hissediyorsanız gözlerinizi kapayın.",
+      "file": "c002.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 3,
+      "text": "Başın tepesinden başlayın.",
+      "file": "c003.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 4,
+      "text": "Orada herhangi bir duyu var mı diye fark edin. Sıcaklık. Soğukluk. Hiçbir şey.",
+      "file": "c004.ogg",
+      "durationSec": 16.272
+    },
+    {
+      "index": 5,
+      "text": "Değiştirmeye gerek yok. Sadece fark edin.",
+      "file": "c005.ogg",
+      "durationSec": 8.928
+    },
+    {
+      "index": 6,
+      "text": "Yavaşça alnın ve gözlerin bölgesine geçin.",
+      "file": "c006.ogg",
+      "durationSec": 6.792
+    },
+    {
+      "index": 7,
+      "text": "Gözlerin etrafındaki küçük kasları gevşetin.",
+      "file": "c007.ogg",
+      "durationSec": 7.2
+    },
+    {
+      "index": 8,
+      "text": "Çene hissedin. Eğer mümkünse gevşetin.",
+      "file": "c008.ogg",
+      "durationSec": 8.256
+    },
+    {
+      "index": 9,
+      "text": "Dil hafifçe duruyor.",
+      "file": "c009.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 10,
+      "text": "Omuzlar. Yükseliyorlar mı? Biraz düşürün.",
+      "file": "c010.ogg",
+      "durationSec": 11.112
+    },
+    {
+      "index": 11,
+      "text": "Kollar ağırlıkta. Eller açık ya da gevşek.",
+      "file": "c011.ogg",
+      "durationSec": 8.76
+    },
+    {
+      "index": 12,
+      "text": "Göğüs nefesle birlikte yükselip alçalıyor.",
+      "file": "c012.ogg",
+      "durationSec": 6.672
+    },
+    {
+      "index": 13,
+      "text": "Karnın yumuşak. Zorlamadan.",
+      "file": "c013.ogg",
+      "durationSec": 7.32
+    },
+    {
+      "index": 14,
+      "text": "Bel ve pelvis dinleniyor.",
+      "file": "c014.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 15,
+      "text": "Uyluklar. Dizler. Alt bacaklar.",
+      "file": "c015.ogg",
+      "durationSec": 10.104
+    },
+    {
+      "index": 16,
+      "text": "Ayaklar. Ayak tabanları zeminde ya da mat üzerinde.",
+      "file": "c016.ogg",
+      "durationSec": 9.696
+    },
+    {
+      "index": 17,
+      "text": "Şimdi tüm vücudu bir farkındalık alanıyla hissedin.",
+      "file": "c017.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 18,
+      "text": "Nefes onun içinden geçiyor.",
+      "file": "c018.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 19,
+      "text": "Gergin bir nokta ortaya çıkarsa, oraya nazik bir nefes verin.",
+      "file": "c019.ogg",
+      "durationSec": 9.264
+    },
+    {
+      "index": 20,
+      "text": "Üç sakin nefes için kalın.",
+      "file": "c020.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 21,
+      "text": "Hazır olduğunuzda parmaklarınızı ve ayak parmaklarınızı sallayın.",
+      "file": "c021.ogg",
+      "durationSec": 8.712
+    },
+    {
+      "index": 22,
+      "text": "Gözlerinizi açın. Yavaşça geri dönün.",
+      "file": "c022.ogg",
+      "durationSec": 8.664
+    }
+  ]
+}
